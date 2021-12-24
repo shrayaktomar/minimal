@@ -16,4 +16,4 @@ prediciting the commoditites trend based on the weather patterns, logistics and 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shrayaktomar/mrket_trends.git)
 
-<center><img src="assets/img/stock.jpg"/></centre>
+<center><img src="assets/img/stock.jpg"/></center>
